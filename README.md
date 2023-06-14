@@ -18,6 +18,9 @@
 + Triple Monitor (Cabinet with 16:9 DMD)
 + Triple Monitor (Cabinet with ultrawide DMD)
 
+### Video Tutorials
+[Video Tutorials](https://www.youtube.com/@NateMac000)
+
 ## Create your own table assets
 You can use the link to help you create media assets for the tables you add to Pinball Emporium.
 + [Table Media Creation Assets](https://github.com/natemac/Pinball-Emporium-Table-Media-Assets)
