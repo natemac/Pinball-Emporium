@@ -5,8 +5,10 @@ Media Location: PinballEmporium\collections\[PROGRAM]\medium_artwork\[MEDIA_FOLD
 
 ## Media Folders:
 ### cover
-A 1920x1080 JPEG image representing the table along with text with the table name.
-Assets: 'Cover' folder
++ Details: An image representing the table, text with the table name & using a template from the **Cover** folder.
++ Format: JPEG/JPG
++ Size: 1920px x 1080px
++ Assets: 'Cover' folder
 
 ### logo
 A PNG image with a transparent/alpha background with the title of the table.
