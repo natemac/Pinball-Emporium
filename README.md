@@ -3,9 +3,9 @@
 All media should be named exactly as the table file name.
 Media Location: PinballEmporium\collections\[PROGRAM]\medium_artwork\[MEDIA_FOLDER]
 
-Media Folders:
+## Media Folders:
 
-•cover
+### cover
 
 A 1920x1080 JPEG image representing the table along with text with the table name.
 Assets: 'Cover' folder
