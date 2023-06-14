@@ -11,24 +11,31 @@ Media Location: PinballEmporium\collections\[PROGRAM]\medium_artwork\[MEDIA_FOLD
 + Assets: 'Cover' folder
 
 ### logo
-A PNG image with a transparent/alpha background with the title of the table.
-Assets: n/a
++ Details: An image with a transparent/alpha background with the title of the table.
++ Format: PNG
++ Size: n/a
++ Assets: n/a
 
 ### rules
-A 1920x1080 JPEG image with the rules of the table.
-Assets: n/a
++ Details: An image with the rules of the table.
++ Format: JPEG/JPG
++ Size: 1920px x 1080px
++ Assets: n/a
 
 ### topper
-A 1920x600 (1920x1080 including the black bottom) JPEG image representing the table.
-Assets: Topper.png
++ Details: An image representing the table.
++ Format: JPEG/JPG
++ Size: 1920x600 (1920x1080 including the black bottom)
++ Assets: Topper.png
 
 ### video
-A 1920x1080 video, 35-45 seconds in length of continuous table play.
-Assets:	PinballEmporium.json(Preset for Handbrake).
-After Effects: 'Table Video' folder
-YouTube - 'World of VPX'
++ Details: A video, 35-45 seconds in length of continuous table play.
++ Format: mp4
++ Size: 1920x1080
++ Assets: PinballEmporium.json(Preset for Handbrake), After Effects: 'Table Video' folder, YouTube - 'World of VPX'
 
 ### video_marquee
-A 1920x1080 video using the cover images for a marquee.
-Assets: PinballEmporium.json(Preset for Handbrake)
-After Effects: 'Video_Marquee' folder
++ Details: A video using the cover images for a marquee.
++ Format: mp4
++ Size: 1920x1080
++ Assets: PinballEmporium.json(Preset for Handbrake), After Effects: 'Video_Marquee' folder
