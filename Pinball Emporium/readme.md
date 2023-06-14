@@ -1,3 +1,15 @@
+# First Time install
++ Run the **INSTALLER.bat** located in the *_INSTALLER* Folder and follow the direction carefully.
++ At any point you need to change something, exit the program/cmd and start over.
+# Info & FAQ
+## If your playfield is upside-down
+1. Right-click on desktop and choose "Display Settings".
+2. Scroll down to "Display orientation" and change 'Landscape' to 'Landscape flipped'.
+## Including & Excluding Tables from List
++ Because all tables are included whether you own them or not (FX, FX3 & Zaccaria), you may remove them from the menu list manually.
++ If you would rather they not appear in the menu list. Edit or add the "exclude.txt" or "include.txt" file in the collections folders.
+(ex: PinballEmporium\collections\Pinball FX3\exclude.txt)
+
 # Change Log
 ## Release 13 - Update
 +	ADDED - Future Pinball Updated to BAM to 1.5-360
