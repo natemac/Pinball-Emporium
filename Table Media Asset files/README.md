@@ -1,7 +1,7 @@
 # Table Collection Assets
 
-All media should be named exactly as the table file name.
-Media Location: PinballEmporium\collections\[PROGRAM]\medium_artwork\[MEDIA_FOLDER]
+**All media should be named exactly as the table file name.**
+**Media Location: PinballEmporium\collections\[PROGRAM]\medium_artwork\[MEDIA_FOLDER]**
 
 ## Media Folders:
 ### cover
