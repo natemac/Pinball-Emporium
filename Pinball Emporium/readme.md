@@ -3,15 +3,16 @@
 + At any point you need to change something, exit the program/cmd and start over.
 # Info & FAQ
 ## If your playfield is upside-down
-1. Right-click on desktop and choose "Display Settings".
+1. Right-click on the desktop and choose "Display Settings".
 2. Scroll down to "Display orientation" and change 'Landscape' to 'Landscape flipped'.
-## Including & Excluding Tables from List
+## Including & Excluding Tables from the List
 + Because all tables are included whether you own them or not (FX, FX3 & Zaccaria), you may remove them from the menu list manually.
 + If you would rather they not appear in the menu list. Edit or add the "exclude.txt" or "include.txt" file in the collections folders.
 (ex: PinballEmporium\collections\Pinball FX3\exclude.txt)
 
 # Change Log
 ## Release 13 - Update
++	ADDED - Pinball FX (Steam)
 +	ADDED - Future Pinball Updated to BAM to 1.5-360
 +	ADDED - RetroFE Backend Updated to 0.10.31
 +	ADDED - Visual Pinball X Updated to 10.7.3
@@ -31,14 +32,14 @@
 +	ADDED - Future Pinball now used DMDext(Freezy) instead of FutureDMD for a third screen DMD
 +	FIXED - When Playfield is not Screen 1 in a 3-Screen setup.
 +	FIXED - Small bug with 2 screen setup in Display Setup.
-+	FIXED - The Shadow Pup-Pack for 2 screen setup.
++	FIXED - The Shadow Pup-Pack for 2-screen setup.
 ## Release 11 - Update
 +	ADDED - The ability to play Future Pinball PinEvent tables by TerryRed.
 +	ADDED - Preliminary Setup & Media for Zaccaria Pinball.
-+	ADDED - Jump table list by first letter in Menu, 'M' & 'N' Keys
++	ADDED - Jump table list by the first letter in Menu, 'M' & 'N' Keys
 +	ADDED - Table count now appears in the info bar.
 +	ADDED - Table filename now appears briefly in the info bar.
-+	FIXED - Tables are now sorted better alphabetically together rather then per-software.
++	FIXED - Tables are now sorted better alphabetically together rather than per-software.
 +	ADDED - Now Loading to the Second Screen.
 +	ADDED - Update NVRAM for Bally & Gottlieb tables (source: https://pinballnirvana.com/forums/resources/bally-6803-gottlieb-gts3-nvram-pack.3346/) 
 +	ADDED - Additional hand-holding for the display setup.
@@ -57,13 +58,13 @@
 +	ADDED - DMD Only 3rd screen support
 +	ADDED - Updated Menu UI with supporter text
 +	ADDED - Full Support for Pinup Single Screen Desktop Orientation
-+	ADDED - Table Collections! We have changed how we go though Tables, rather then a specific program, we have seperated the tables into Collections. This database will be updatedin future releases and kept up to date in a TBD location.
++	ADDED - Table Collections! We have changed how we go through Tables, rather than a specific program, we have separated the tables into Collections. This database will be updated in future releases and kept up to date in a TBD location.
 +	ADDED - New Menu Animations
 +	ADDED - AltSounds for VPX Tables
 +	ADDED - Optional MAME Emulator with 25 Vertical Arcade Games to play
 +	ADDED - Per Collection Favorites Menu
 +	ADDED - Updated Future Pinball BAM to 1.5-327
 +	ADDED - Topper Images for 3 Screen
-+	ADDED - Table Credit Info for Tables (currently only visiable in the Desktop View, Cabinet Patch TBA)
++	ADDED - Table Credit Info for Tables (currently only visible in the Desktop View, Cabinet Patch TBA)
 +	FIXED - Every (I Think) 2-Screen Pinup Backglass fixed
 +	FIXED - Just lots of little fixes
