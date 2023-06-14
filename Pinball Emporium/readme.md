@@ -52,7 +52,7 @@
 +	FIXED - Missing Avatar PuPPack - Run 'Display Setup.bat' after update. (Need "Pinball Emporium - R10_Tables - UPDATE_210406.rar")
 +	ADDED - Gottlieb Collection.
 +	ADDED - Updated Collection Menu.
-## Pinball Emporium - Full Release (AKA Release 10)	
+## Release 10 - Pinball Emporium - First Full Release
 +	ADDED - Even Easier to setup for Desktop or Cabinet and different monitor resolutions
 +	ADDED - Full 3-Screen Support. Ideal for 3 16:9 monitors
 +	ADDED - DMD Only 3rd screen support
