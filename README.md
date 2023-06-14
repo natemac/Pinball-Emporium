@@ -1,6 +1,5 @@
 # Pinball-Emporium
-
-## Pinball Emporium is a Frontend software for Windows PCs.
+### Pinball Emporium is a Frontend software for Windows PCs.
 ### Supported Pinball Software
 + Pinball FX 2023 (Steam)
 + Pinball FX3 (Steam)
