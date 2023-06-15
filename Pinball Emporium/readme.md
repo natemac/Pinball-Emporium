@@ -13,6 +13,7 @@
 # Change Log
 ## Release 13 - Update
 +	ADDED - Pinball FX (Steam)
++	ADDED - Freezy DMD-Extension Updated to v2.1.2
 +	ADDED - Future Pinball Updated to BAM to 1.5-360
 +	ADDED - RetroFE Backend Updated to 0.10.31
 +	ADDED - Visual Pinball X Updated to 10.7.3
